@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Demo] (MemoryGame/PreWorkGabriel.gif)
+![Demo] (![PreWorkGabriel](https://user-images.githubusercontent.com/66188656/111890655-e9d9f180-89c1-11eb-9a3c-9788dbe3216c.gif)
+f)
 
 ## Reflection Questions
 
