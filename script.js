@@ -1,7 +1,7 @@
 // global constants
 var clueHoldTime = 1000; //how long to hold each clue's light/sound
 const cluePauseTime = 333; //how long to pause in between clues
-const nextClueWaitTime = 500; //how long to wait before starting playback of the clue sequence
+const nextClueWaitTime = 400; //how long to wait before starting playback of the clue sequence
 // Global variables
 var pattern =[];
 var progress = 0;
@@ -13,9 +13,10 @@ var strike = 0;
 
 function startGame() {
   //initialize game variables
-  pattern = Array.from({length: 4}, () => Math.floor(Math.random() * 7));
+  pattern = Array.from({length: 5}, () => Math.floor(Math.random() * 6)+1);
   progress = 0;
   gamePlaying = true;
+  clueHoldTime = 1000;
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
@@ -25,6 +26,7 @@ function startGame() {
 
 function stopGame() {
   gamePlaying = false;
+  progress = 0;
   // swap the Start and Stop buttons
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
