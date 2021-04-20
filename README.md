@@ -59,7 +59,9 @@ f)
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
 
-   [I am lucky enough to already have some basic experience with these tools, including Glitch, which made the whole process faster and simpler.
+   [I would like to know more about the connection between front-end and back-end development. How do different teams communicate and collaborate in such a big company? What    is the structure of groups working together? What challenges do they face? What other tools can I sue to expand the functionality and usefulness of my programs?]
+   
+   [I had some basic experience with these tools, including Glitch, which made the whole process faster and simpler.
    However, this was a very fun project to do, I learned something about every language I used and reminded me once more how honestly fun
    these type of projects can be. I ended up being hooked on making it 'Adventure Time' themed and more appealing, as well as smarter. This makes me eager
    to continue to learn about these languages, continue to develop and understand more projects like this.]
@@ -67,7 +69,7 @@ f)
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
 
    [I would try to do sound clips for every character instead of generic sound, make the whole website more thematic and provide some fun
-   feedback, perhaps even use this to make a different, more elaborate program, like a choose your own adventure game or a platformer.]
+   feedback, perhaps even use this to make a different, more elaborate program, like a choose your own adventure game or a platformer!.]
 
 ## License
 
